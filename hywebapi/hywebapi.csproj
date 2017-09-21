@@ -21,7 +21,7 @@
       <Properties>
         <Policies>
           <VersionControlPolicy>
-            <CommitMessageStyle Indent="&#x9;" LastFilePostfix=":&#xA;  " IncludeDirectoryPaths="True" />
+            <CommitMessageStyle Indent="&#x9;" LastFilePostfix=":&#xA;  " LineAlign="0" IncludeDirectoryPaths="True" />
           </VersionControlPolicy>
         </Policies>
       </Properties>

@@ -12533,23 +12533,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/yuwen/.nuget/packages/": {},
+    "/Users/admin/.nuget/packages/": {},
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/yuwen/github/dotnetcoresamples/hywebapi/hywebapi.csproj",
+      "projectUniqueName": "/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/hywebapi.csproj",
       "projectName": "hywebapi",
-      "projectPath": "/Users/yuwen/github/dotnetcoresamples/hywebapi/hywebapi.csproj",
-      "packagesPath": "/Users/yuwen/.nuget/packages/",
-      "outputPath": "/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/",
+      "projectPath": "/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/hywebapi.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/yuwen/.nuget/NuGet/NuGet.Config"
+        "/Users/admin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

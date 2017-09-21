@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{79AAFCC5-0B6A-4FC8-88BC-92815E299ED5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="hywebapi/Program.cs">
+    <Files>
+      <File FileName="Log" />
+      <File FileName="dotnetcoresamples Status" />
+      <File FileName="hywebapi/Program.cs" Line="17" Column="1" />
+      <File FileName="hywebapi Status" />
+      <File FileName="hywebapi/hywebapi.csproj" Line="1" Column="1" />
+      <File FileName="hydotnet.sln" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hywebapi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

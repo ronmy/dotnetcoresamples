@@ -8,3 +8,14 @@
 /Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.AssemblyInfo.cs
 /Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.dll
 /Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.pdb
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.deps.json
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.runtimeconfig.json
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.runtimeconfig.dev.json
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.dll
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.pdb
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.csproj.CoreCompileInputs.cache
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.AssemblyInfoInputs.cache
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.AssemblyInfo.cs
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.dll
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.pdb
+/Users/admin/ronmy/vscode/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.csprojResolveAssemblyReference.cache

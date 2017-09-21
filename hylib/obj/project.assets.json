@@ -664,23 +664,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "/Users/yuwen/.nuget/packages/": {},
+=======
+    "/Users/admin/.nuget/packages/": {},
+>>>>>>> 8459966... test
     "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/yuwen/github/dotnetcoresamples/hylib/hylib.csproj",
       "projectName": "hylib",
       "projectPath": "/Users/yuwen/github/dotnetcoresamples/hylib/hylib.csproj",
       "packagesPath": "/Users/yuwen/.nuget/packages/",
       "outputPath": "/Users/yuwen/github/dotnetcoresamples/hylib/obj/",
+=======
+      "projectUniqueName": "/Users/admin/ronmy/vscode/dotnetcoresamples/hylib/hylib.csproj",
+      "projectName": "hylib",
+      "projectPath": "/Users/admin/ronmy/vscode/dotnetcoresamples/hylib/hylib.csproj",
+      "packagesPath": "/Users/admin/.nuget/packages/",
+      "outputPath": "/Users/admin/ronmy/vscode/dotnetcoresamples/hylib/obj/",
+>>>>>>> 8459966... test
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "/Users/yuwen/.nuget/NuGet/NuGet.Config"
+=======
+        "/Users/admin/.nuget/NuGet/NuGet.Config"
+>>>>>>> 8459966... test
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
