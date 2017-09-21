@@ -5,6 +5,7 @@ namespace hywebapi.Controllers
     {
         public EmptyClass()
         {
+            "a".ToString();
         }
     }
 }
