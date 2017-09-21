@@ -1,0 +1,5 @@
+/Users/yuwen/github/dotnetcoresamples/hywebapi
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=hywebapi
+--content-root=/Users/yuwen/github/dotnetcoresamples/hywebapi
+--file=

@@ -15,7 +15,7 @@ namespace hywebapi
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run(); 
-            args.Count();
+           // args.Count();
         }
 
         public static IWebHost BuildWebHost(string[] args) =>

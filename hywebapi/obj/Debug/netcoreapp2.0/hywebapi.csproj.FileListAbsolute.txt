@@ -1,0 +1,10 @@
+/Users/yuwen/github/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.deps.json
+/Users/yuwen/github/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.runtimeconfig.json
+/Users/yuwen/github/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.runtimeconfig.dev.json
+/Users/yuwen/github/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.dll
+/Users/yuwen/github/dotnetcoresamples/hywebapi/bin/Debug/netcoreapp2.0/hywebapi.pdb
+/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.csproj.CoreCompileInputs.cache
+/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.AssemblyInfoInputs.cache
+/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.AssemblyInfo.cs
+/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.dll
+/Users/yuwen/github/dotnetcoresamples/hywebapi/obj/Debug/netcoreapp2.0/hywebapi.pdb
